@@ -1,62 +1,62 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Procedural programming            h
+  - Imperative programming            h
+  - Structured programming            u
+  - Non-structured programming        h
+  - Functional programming            u
+  - Prototype-based programming       -
+  - Object-oriented programming       u
+  - Object-based programming          u
+  - Generic programming               h
+  - Concurrent computing              h
+  - Asynchronous programming          u
+  - Parallel programming              h
+  - Reactive programming              h
+  - Functional-reactive (FRP)         -
+  - Automata-based programming        -
+  - Domain-specific languages         -
+  - Multi-paradigm programming        h
+  - Metaprogramming                   -
+  - Actor model                       -
+  - Lambda calculus                   -
+  - Black box                         -
+  - Information hiding                h
+  - Aspect-oriented programming       -
+  - Anemic domain model               -
+  - Class composition                 -  
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Constructor                       u
+  - Operator `new`                    u
+  - Static method                     u
+  - Method                            u
+  - Async method                      u
+  - Getters, Setters                  e
+  - Public fields                     e
+  - Private fields                    e
+  - Field declarations                e
+  - Inheritance                       e
+  - Parent class                      e
+  - Polymorphism                      e
+  - Abstract class                    e
+  - Interface                         h
+  - Encapsulation                     e
+  - Hidden class                      h
+  - Object form                       h
+  - Instance                          u
+  - Introspection                     -
+  - Reflection                        -
+  - The diamond problem               h
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert                -
+  - Creator                           -
+  - Controller                        -
+  - Indirection                       -
+  - Low coupling                      -
+  - High cohesion                     -
+  - Protected variations              -
+  - Pure fabrication                  -
 - SOLID
   - Single-responsibility principle (SRP)
   - Open–closed principle (OCP)
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
+  - Singleton                        e
+  - Factory Method                   u 
+  - Abstract Factory                 u
+  - Adapter                          h
+  - Observer                         h
+  - Strategy                         -
+  - Facade                           h
+  - Proxy                            -
+  - Chain of Responsibility          -
+  - Command                          -
+  - Iterator                         h
+  - State                            h
+  - Bridge                           h
+  - Builder                          h
+  - Prototype                        -
+  - Composite                        -
+  - Decorator                        h
+  - Flyweight                        -
+  - Mediator                         h
+  - Memento                          -
+  - Template Method                  h
+  - Visitor                          -
+  - Reactor                          -
+  - Active object                    -
   - Delegation
