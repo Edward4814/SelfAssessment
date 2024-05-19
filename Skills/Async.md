@@ -1,61 +1,61 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop h
-  - `try..catch` u
-  - Non-blocking  
-  - Async I/O u
-  - Thread pool u
-  - Pattern Reactor  
-  - CAS operations  
-  - epoll  
-  - kqueue  
-  - Completion ports   
-  - Event ports  
-  - libuv  
-  - Race conditions  
-  - Dead locks h
-  - Live locks h
-  - Concurrent programming  
-  - Parallel programming h
-  - Actor Model  
-  - Thread h
-  - Process h
+  - Event loop: 👂 heard
+  - `try..catch`: 🖐️ used
+  - Non-blocking
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
+  - Pattern Reactor
+  - CAS operations
+  - epoll
+  - kqueue
+  - Completion ports
+  - Event ports
+  - libuv
+  - Race conditions
+  - Dead locks: 👂 heard
+  - Live locks: 👂 heard
+  - Concurrent programming
+  - Parallel programming: 👂 heard
+  - Actor Model
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks h
-  - Callback-last-error-first h
-  - Thenable h
-  - Promise h
-  - Async/await u
-  - Future 
-  - Deferred 
-  - Sync generator 
-  - Async Generator 
-  - Async Iterator 
-  - Event u
-  - Coroutine 
-  - Goroutine 
-  - Signal 
-  - Stream h
-  - Chain of responsibility 
+  - Callbacks: 👂 heard
+  - Callback-last-error-first: 👂 heard
+  - Thenable: 👂 heard
+  - Promise: 👂 heard
+  - Async/await: 🖐️ used
+  - Future
+  - Deferred
+  - Sync generator
+  - Async Generator
+  - Async Iterator
+  - Event: 🖐️ used
+  - Coroutine
+  - Goroutine
+  - Signal
+  - Stream: 👂 heard
+  - Chain of responsibility
   - Middleware
-  - Locks 
+  - Locks
 - Async adapters and utils
-  - callbackify 
-  - promisify 
-  - asyncify 
-  - Callbacks compose 
-  - Async compose 
+  - callbackify
+  - promisify
+  - asyncify
+  - Callbacks compose
+  - Async compose
 - Async abstractions interfaces
-  - EventEmitter 
-  - Observable/Observer 
-  - Readable 
-  - Writable 
+  - EventEmitter
+  - Observable/Observer
+  - Readable
+  - Writable
   - Transform
   - Async Pool
-  - Async Queue 
-  - Async Collector 
-  - Semaphore 
+  - Async Queue
+  - Async Collector
+  - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
@@ -72,18 +72,18 @@
   - Promise hell
   - ref() and unref()
   - Error handling in async code
-  - Better stack traces with return await 
-  - JSON streaming serialization 
-  - AsyncLocalStorage 
-  - AsyncResource 
+  - Better stack traces with return await
+  - JSON streaming serialization
+  - AsyncLocalStorage
+  - AsyncResource
 - Techniques
-  - Async.js library 
-  - RxJS library 
-  - Promise.all 
-  - Promise.allSettled 
-  - Promise.race 
-  - Promise.any 
-  - Web Locks API 
-  - IPC 
-  - Channel API 
-  - Revealing constructor 
+  - Async.js library
+  - RxJS library
+  - Promise.all
+  - Promise.allSettled
+  - Promise.race
+  - Promise.any
+  - Web Locks API
+  - IPC
+  - Channel API
+  - Revealing constructor

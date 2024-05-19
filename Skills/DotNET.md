@@ -11,13 +11,13 @@
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
-  - NuGet package management u
-  - Dependency management in .NET h
-  - Dependency Injection in .NET h
+  - NuGet package management: 🖐️ used
+  - Dependency management in .NET: 👂 heard
+  - Dependency Injection in .NET: 👂 heard
   - Inversion of Control (IoC)
   - IoC containers in .NET
   - Middleware and pipeline configuration
-  - Modular applications h
+  - Modular applications: 👂 heard
 - Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI
@@ -29,12 +29,12 @@
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ u
+  - LINQ: 🖐️ used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management h
+  - Memory and resource management: 👂 heard
   - Globalization and localization
 - Network and Protocols
   - HTTP/HTTPS support
@@ -53,12 +53,12 @@
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core u
+  - Entity Framework Core: 🖐️ used
   - Dapper
   - ADO.NET for database access
   - Data modeling and migration
   - Repository and Unit of Work patterns
-  - CRUD operations e
+  - CRUD operations: 🙋 explained
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
@@ -78,12 +78,12 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals k
-  - Advanced C# features (LINQ, async/await, delegates, events) k
-  - Reflection and dynamic programming 
-  - Data types and collections e
-  - Generics and extension methods h
-  - Attributes and annotations h
+  - C# syntax and language fundamentals: 🎓 known
+  - Advanced C# features (LINQ, async/await, delegates, events): 🎓 known
+  - Reflection and dynamic programming
+  - Data types and collections: 🙋 explained
+  - Generics and extension methods: 👂 heard
+  - Attributes and annotations: 👂 heard
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals
@@ -103,10 +103,10 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals k
+  - C++ syntax and language fundamentals: 🎓 known
   - Interoperability between managed (.NET) and unmanaged (native) code
-  - Memory management in mixed environments k
-  - `C++/CLI` syntax and usage k
+  - Memory management in mixed environments: 🎓 known
+  - `C++/CLI` syntax and usage: 🎓 known
   - Accessing .NET Framework classes in `C++`
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity k
+  - Unity: 🎓 known
 - Web development
   - ASP.NET Core
   - Blazor
