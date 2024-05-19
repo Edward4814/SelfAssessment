@@ -6,7 +6,7 @@
   - Structured programming            u
   - Non-structured programming        h
   - Functional programming            u
-  - Prototype-based programming       -
+  - Prototype-based programming       
   - Object-oriented programming       u
   - Object-based programming          u
   - Generic programming               h
@@ -14,18 +14,18 @@
   - Asynchronous programming          u
   - Parallel programming              h
   - Reactive programming              h
-  - Functional-reactive (FRP)         -
-  - Automata-based programming        -
-  - Domain-specific languages         -
+  - Functional-reactive (FRP)         
+  - Automata-based programming        
+  - Domain-specific languages         
   - Multi-paradigm programming        h
-  - Metaprogramming                   -
-  - Actor model                       -
-  - Lambda calculus                   -
-  - Black box                         -
+  - Metaprogramming                   
+  - Actor model                       
+  - Lambda calculus                   
+  - Black box                         
   - Information hiding                h
-  - Aspect-oriented programming       -
-  - Anemic domain model               -
-  - Class composition                 -  
+  - Aspect-oriented programming       
+  - Anemic domain model               
+  - Class composition                 
 - OOP basics
   - Constructor                       u
   - Operator `new`                    u
@@ -45,18 +45,18 @@
   - Hidden class                      h
   - Object form                       h
   - Instance                          u
-  - Introspection                     -
-  - Reflection                        -
+  - Introspection                     
+  - Reflection                        
   - The diamond problem               h
 - GRASP
-  - Information expert                -
-  - Creator                           -
-  - Controller                        -
-  - Indirection                       -
-  - Low coupling                      -
-  - High cohesion                     -
-  - Protected variations              -
-  - Pure fabrication                  -
+  - Information expert                
+  - Creator                           
+  - Controller                        
+  - Indirection                       
+  - Low coupling                      
+  - High cohesion                     
+  - Protected variations              
+  - Pure fabrication                  
 - SOLID
   - Single-responsibility principle (SRP)
   - Open–closed principle (OCP)
@@ -69,21 +69,21 @@
   - Abstract Factory                 u
   - Adapter                          h
   - Observer                         h
-  - Strategy                         -
+  - Strategy                         
   - Facade                           h
-  - Proxy                            -
-  - Chain of Responsibility          -
-  - Command                          -
+  - Proxy                            
+  - Chain of Responsibility          
+  - Command                          
   - Iterator                         h
   - State                            h
   - Bridge                           h
   - Builder                          h
-  - Prototype                        -
-  - Composite                        -
+  - Prototype                        
+  - Composite                        
   - Decorator                        h
-  - Flyweight                        -
+  - Flyweight                        
   - Mediator                         h
-  - Memento                          -
+  - Memento                          
   - Template Method                  h
   - Visitor                          -
   - Reactor                          -
