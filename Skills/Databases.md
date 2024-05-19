@@ -7,7 +7,7 @@
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
+  - Relational databases u
   - Key-value store
   - Tuple store
   - Graph databases
@@ -18,36 +18,36 @@
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data definition language (DDL) u
+  - Data manipulation language (DML) u
+  - Data query language (DQL) u
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys u
+  - Foreign keys u
   - Transactions
   - Views
   - Subqueries
-  - Stored procedures
-  - SQL functions
+  - Stored procedures 
+  - SQL functions u
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
+  - `JOIN` u
+  - `INNER JOIN` u
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
@@ -56,11 +56,11 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` u
   - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `DROP TABLE` u
+  - `PRIMARY KEY` u
+  - `FOREIGN KEY` u
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -72,23 +72,23 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL u
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server u
   - Redis
   - Rabbit
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite u
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
+  - Big data h
   - Data analysis
   - AI tools
   - Cloud databases
-  - Data Visualization
+  - Data Visualization h
